@@ -9,7 +9,7 @@ const Navbar = () => {
     <div className='navbar'>
       <Link to='#' className='logo'>
         <LuBaggageClaim size={32} />
-        <h3>E-Commerce</h3>
+        <h3>E-ComTech</h3>
       </Link>
       <div className='links'>
         <Link to='/react_shopping_cart_project'>
